@@ -5,7 +5,7 @@
 		"source": {
 			"url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
 			"type": "git",
-			"reference": "master"
+			"reference": "develop"
 		}
 	}
 }
