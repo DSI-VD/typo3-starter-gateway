@@ -126,6 +126,15 @@
           "type": "git",
           "reference": "1.0.11"
         }
+      },
+      "1.0.12": {
+        "name": "vd/typo3-starter",
+        "version": "1.0.12",
+        "source": {
+          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "type": "git",
+          "reference": "1.0.12"
+        }
       }
     }
   }
