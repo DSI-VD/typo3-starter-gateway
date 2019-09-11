@@ -153,6 +153,15 @@
           "type": "git",
           "reference": "1.0.14"
         }
+      },
+      "1.0.15": {
+        "name": "vd/typo3-starter",
+        "version": "1.0.15",
+        "source": {
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
+          "type": "git",
+          "reference": "1.0.15"
+        }
       }
     }
   }
