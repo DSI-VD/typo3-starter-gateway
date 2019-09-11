@@ -5,7 +5,7 @@
         "name": "vd/typo3-starter",
         "version": "dev-develop",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "develop"
         }
@@ -14,7 +14,7 @@
         "name": "vd/typo3-starter",
         "version": "dev-master",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "master"
         }
@@ -23,7 +23,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.0",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.0"
         }
@@ -32,7 +32,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.1",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.1"
         }
@@ -41,7 +41,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.2",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.2"
         }
@@ -50,7 +50,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.3",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.3"
         }
@@ -59,7 +59,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.4",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.4"
         }
@@ -68,7 +68,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.5",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.5"
         }
@@ -77,7 +77,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.6",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.6"
         }
@@ -86,7 +86,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.7",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.7"
         }
@@ -95,7 +95,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.8",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.8"
         }
@@ -104,7 +104,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.9",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.9"
         }
@@ -113,7 +113,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.10",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.10"
         }
@@ -122,7 +122,7 @@
         "name": "vd/typo3-starter",
         "version": "1.0.11",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.11"
         }
@@ -131,9 +131,27 @@
         "name": "vd/typo3-starter",
         "version": "1.0.12",
         "source": {
-          "url": "ssh://git@bitbucket.etat-de-vaud.ch/pee/typo3-starter.git",
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
           "type": "git",
           "reference": "1.0.12"
+        }
+      },
+      "1.0.13": {
+        "name": "vd/typo3-starter",
+        "version": "1.0.13",
+        "source": {
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
+          "type": "git",
+          "reference": "1.0.13"
+        }
+      },
+      "1.0.14": {
+        "name": "vd/typo3-starter",
+        "version": "1.0.14",
+        "source": {
+          "url": "git@github.com:DSI-VD/typo3-starter.git",
+          "type": "git",
+          "reference": "1.0.14"
         }
       }
     }
